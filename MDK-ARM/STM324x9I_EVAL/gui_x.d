@@ -1,0 +1,9 @@
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\OS\GUI_X.c
+stm324x9i_eval\gui_x.o: C:\Keil\ARM\RV31\INC\RTL.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI_ConfDefaults.h
+stm324x9i_eval\gui_x.o: ..\Inc\GUIConf.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI_Type.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\LCD.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\Global.h
+stm324x9i_eval\gui_x.o: ..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI_Version.h
